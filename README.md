@@ -3,7 +3,6 @@
 ## Overview
 
 The Garden Puzzle App is a brain teaser puzzle game implemented in Java as part of the Object Oriented Programming course. The objective of the game is to strategically place GardenObjects in a Garden to ensure that a target square 
-
 receives the correct types of Pollens infused with specific colors.
 
 ## Features
